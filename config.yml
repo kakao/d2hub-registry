@@ -1,0 +1,6 @@
+version: 0.1
+log:
+  level: info
+http:
+  addr: 0.0.0.0:5000
+  secret: dockerhubregistryv2secret
